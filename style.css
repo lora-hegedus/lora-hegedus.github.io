@@ -9,8 +9,8 @@
     --accent-light: #ffbcbc;
 
     /* fonts */
-    --basefont: verdana;
-    --titlefont: georgia;
+    --basefont: sans-serif, verdana;
+    --titlefont: serif, georgia;
     --text-size: 16px;
 
     /* gallery styling */
