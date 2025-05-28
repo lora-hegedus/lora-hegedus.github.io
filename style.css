@@ -2,15 +2,15 @@
     /* if you want to keep it super simple, you can edit these top variables (variables = the things that start with --) to add some style and leave the rest of the code alone! */
 
     /* colors */
-    --text: #000;
-    --background: #ffff;
-    --accent-dark: #760f36;
-    --accent: #de2e72;
-    --accent-light: #FFBCCC;
+    --text: #000000;
+    --background: #feeaea;
+    --accent-dark: #5b0f76;
+    --accent: #2e7ade;
+    --accent-light: #e8bcff;
 
     /* fonts */
     --basefont: sans-serif;
-    --titlefont: monospace;
+    --titlefont: candara;
     --text-size: 16px;
 
     /* gallery styling */
