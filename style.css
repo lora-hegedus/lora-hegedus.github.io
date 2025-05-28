@@ -4,13 +4,13 @@
     /* colors */
     --text: #000000;
     --background: #feeaea;
-    --accent-dark: #5b0f76;
-    --accent: #2e7ade;
-    --accent-light: #e8bcff;
+    --accent-dark: #0f2276;
+    --accent: #174e96;
+    --accent-light: #ffbcbc;
 
     /* fonts */
     --basefont: sans-serif;
-    --titlefont: monospace;
+    --titlefont: verdana;
     --text-size: 16px;
 
     /* gallery styling */
